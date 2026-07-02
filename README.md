@@ -7,7 +7,7 @@
     Hi, I'm Humberto 👋 <br> <br>
     🔥  Self-taught Software Developer <br>
     ✨  Favorite Tech: PHP (Don't hurt me), JavaScript, React, GraphQL, Python ... <br>
-    📓  I’m currently learning C# and Unity, Unreal is next... 😭 <br>
+    📓  Hobbyist Gamedev 😭 <br>
     📧  humberto.virtudes@gmail.com <br>
     🎨  Portfolio: WIP... <br>
     💼  LinkedIn: https://www.linkedin.com/in/humbertovirtudes/ <br>
