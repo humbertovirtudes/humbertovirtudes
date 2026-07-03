@@ -6,13 +6,10 @@
   <samp>
     Hi, I'm Humberto 👋 <br> <br>
     🔥  Self-taught Software Developer <br>
-    ✨  Favorite Tech: PHP (Don't hurt me), JavaScript, React, GraphQL, Python ... <br>
     📓  Hobbyist Gamedev 😭 <br>
     📧  humberto.virtudes@gmail.com <br>
-    🎨  Portfolio: WIP... <br>
     💼  LinkedIn: https://www.linkedin.com/in/humbertovirtudes/ <br>
     🐦  Twitter: https://twitter.com/MrHVirtudes <br>
-    😄  Pronouns: He/Him <br>
   </samp>
 </p>
 
